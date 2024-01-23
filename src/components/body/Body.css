@@ -1,0 +1,17 @@
+.body_container {
+  margin: 50px;
+}
+
+.body_srch {
+  height: 85px;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.loading{
+  position: relative;
+  left: 40%;
+  height: 200px;
+  width: 200px;
+}
